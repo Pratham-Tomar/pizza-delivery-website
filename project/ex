@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DynaPuff&display=swap" rel="stylesheet">">
+    <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DynaPuff&display=swap" rel="stylesheet">">
+
+    <title>Best Online Food Delivery Services in India | worldofpizza.com </title>
+    
+</head>
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <img src="logo.png" alt="worldofpizza.com">
+        </div>
+        <ul>
+            <li class="item"><a>Home</a></li>
+            <li class="item"><a>Services</a></li>
+            <li class="item"><a>About Us</a></li>
+            <li class="item"><a>Contact Us</a></li>
+            <li class="item"><a>Help</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h1 class="h-primary">Welcome to world of pizza</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam aperiam, mollitia temporibus voluptatibus rerum quos voluptas veniam molestias dolore voluptatem id, modi aspernatur! Facere quos distinctio exercitationem quas tempore. Necessitatibus vitae eum dicta debitis.</p>
+        <button class="btn">Order Now</button>
+    </section>
+    <section class="services-continer">
+        <h1 class="h-primary center">Our Services</h1>
+        <div id="services">
+            <div class="box">
+                <img src="img1.jpg" alt="">
+             <h2 class="h-secondary center">Food Ordering</h2> 
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia pariatur sequi assumenda accusantium ducimus commodi perspiciatis expedita odit repudiandae sed blanditiis fugit molestias ex dolorem aperiam quaerat saepe temporibus numquam mollitia, dicta architecto minus?</p> 
+            </div>
+        </div>
+    </section>
+    
+</body>
+</html>
